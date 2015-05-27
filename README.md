@@ -1,2 +1,0 @@
-# spinnr
-Spinnr Repo Test
